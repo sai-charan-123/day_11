@@ -1,0 +1,2 @@
+#with empty
+print()
